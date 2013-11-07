@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Story Version="1.1" Name="Margaery" Module="campaign_base">
+    <EventList>
+        <e ID="298060" t="18" utc="1362261863" />
+        <e ID="6207426" t="31" utc="1362261876" />
+        <e ID="369168" t="46" utc="1362261891" />
+        <e ID="6201330" t="130" utc="1362261976" />
+        <e ID="6201333" t="130" utc="1362261976" />
+        <e ID="6180823" t="333" utc="1362262179" />
+        <e ID="231858" t="557" utc="1362262402" />
+        <e ID="6207541" t="576" utc="1362262422" />
+        <e ID="6207408" t="595" utc="1362262440" />
+        <e ID="6207409" t="608" utc="1362262453" />
+        <e ID="6207411" t="657" utc="1362262503" />
+        <e ID="6207412" t="1131" utc="1362262976" />
+        <e ID="6207514" t="1131" utc="1362262976" />
+        <e ID="6180123" t="1158" utc="1362263004" />
+        <e ID="370724" t="1294" utc="1362263140" />
+        <e ID="6207586" t="1524" utc="1362263369" />
+        <e ID="6207587" t="1524" utc="1362263369" />
+        <e ID="6207583" t="1643" utc="1362263488" />
+        <e ID="369876" t="2441" utc="1362264287" />
+        <e ID="6205954" t="3974" utc="1362265819" />
+        <e ID="369154" t="4295" utc="1362266140" />
+        <e ID="271534" t="4508" utc="1362266353" />
+        <e ID="6207468" t="5384" utc="1362267231" />
+        <e ID="6180471" t="5854" utc="1362267700" />
+        <e ID="6179544" t="6448" utc="1362268296" />
+        <e ID="6179833" t="6448" utc="1362268296" />
+        <e ID="6179835" t="6448" utc="1362268296" />
+        <e ID="6179447" t="6466" utc="1362268313" />
+        <e ID="6179330" t="6582" utc="1362268430" />
+        <e ID="6180061" t="6673" utc="1362268520" />
+        <e ID="6207589" t="6788" utc="1362268635" />
+        <e ID="6179845" t="6788" utc="1362268635" />
+        <e ID="6207612" t="6853" utc="1362268701" />
+        <e ID="6207591" t="6871" utc="1362268718" />
+        <e ID="6179032" t="6909" utc="1362268757" />
+        <e ID="6179843" t="6912" utc="1362268760" />
+        <e ID="6180085" t="7031" utc="1362268878" />
+        <e ID="370718" t="7184" utc="1362269032" />
+        <e ID="298073" t="7188" utc="1362269035" />
+        <e ID="6180411" t="7503" utc="1362269351" />
+        <e ID="6188315" t="7568" utc="1362269416" />
+        <e ID="6187749" t="7675" utc="1362269523" />
+        <e ID="6207610" t="8641" utc="1362270489" />
+        <e ID="6218915" t="8932" utc="1362270780" />
+        <e ID="6241255" t="9003" utc="1362270851" />
+        <e ID="6241252" t="9003" utc="1362270851" />
+        <e ID="6241245" t="9003" utc="1362270851" />
+        <e ID="6220069" t="9006" utc="1362270855" />
+        <e ID="6220143" t="9006" utc="1362270855" />
+        <e ID="6220071" t="9006" utc="1362270855" />
+        <e ID="6220077" t="9006" utc="1362270855" />
+        <e ID="6220074" t="9006" utc="1362270855" />
+        <e ID="6236463" t="9008" utc="1362270857" />
+        <e ID="6236457" t="9008" utc="1362270857" />
+        <e ID="6236472" t="9008" utc="1362270857" />
+        <e ID="6236469" t="9008" utc="1362270857" />
+        <e ID="6236466" t="9008" utc="1362270857" />
+        <e ID="6241258" t="9010" utc="1362270859" />
+        <e ID="6241248" t="9010" utc="1362270859" />
+        <e ID="6241243" t="9010" utc="1362270859" />
+        <e ID="6220097" t="9014" utc="1362270862" />
+        <e ID="6220100" t="9014" utc="1362270862" />
+        <e ID="6220083" t="9235" utc="1362271084" />
+        <e ID="6220105" t="9235" utc="1362271084" />
+        <e ID="6220108" t="9235" utc="1362271084" />
+        <e ID="6238203" t="9238" utc="1362271087" />
+        <e ID="6238217" t="9238" utc="1362271087" />
+        <e ID="6238201" t="9238" utc="1362271087" />
+        <e ID="6238213" t="9238" utc="1362271087" />
+        <e ID="299969" t="9240" utc="1362271089" />
+        <e ID="6220061" t="9246" utc="1362271094" />
+        <e ID="6220058" t="9246" utc="1362271094" />
+        <e ID="6220056" t="9246" utc="1362271094" />
+        <e ID="6220064" t="9246" utc="1362271094" />
+        <e ID="6188760" t="9498" utc="1362271347" />
+        <e ID="6188554" t="9506" utc="1362271355" />
+        <e ID="6188731" t="9585" utc="1362271435" />
+        <e ID="6188757" t="9676" utc="1362271526" />
+        <e ID="6188741" t="9683" utc="1362271532" />
+        <e ID="370720" t="9920" utc="1362271770" />
+        <e ID="6180311" t="9930" utc="1362271780" />
+        <e ID="6183844" t="10115" utc="1362271965" />
+        <e ID="6179813" t="10314" utc="1362272164" />
+        <e ID="6207639" t="10385" utc="1362272235" />
+        <e ID="6207469" t="10963" utc="1362272813" />
+        <e ID="6207536" t="11226" utc="1362273076" />
+        <e ID="6179818" t="11602" utc="1362273456" />
+        <e ID="299983" t="11610" utc="1362273464" />
+        <e ID="6207616" t="11767" utc="1362273621" />
+        <e ID="6207617" t="11775" utc="1362273629" />
+        <e ID="6182582" t="12022" utc="1362273873" />
+        <e ID="6181839" t="12159" utc="1362274011" />
+        <e ID="6207631" t="12186" utc="1362274037" />
+        <e ID="6182656" t="12272" utc="1362274123" />
+        <e ID="6207470" t="12442" utc="1362274293" />
+        <e ID="299957" t="12562" utc="1362274413" />
+        <e ID="6180179" t="13567" utc="1362275418" />
+        <e ID="360099" t="13906" utc="1362275757" />
+        <e ID="6195282" t="13940" utc="1362275791" />
+        <e ID="369227" t="14527" utc="1362276379" />
+        <e ID="369148" t="14918" utc="1362276770" />
+        <e ID="369220" t="17469" utc="1362311718" />
+        <e ID="6182624" t="17904" utc="1362312155" />
+        <e ID="6179321" t="18224" utc="1362312460" />
+        <e ID="6215710" t="18814" utc="1362313049" />
+        <e ID="6180124" t="19153" utc="1362313387" />
+        <e ID="370700" t="20492" utc="1362314719" />
+        <e ID="6207613" t="21117" utc="1362315320" />
+        <e ID="6180600" t="21117" utc="1362315320" />
+        <e ID="6191786" t="21307" utc="1362315510" />
+        <e ID="6207537" t="30141" utc="1362351051" />
+        <e ID="6201331" t="31566" utc="1362352434" />
+        <e ID="369150" t="31591" utc="1362352460" />
+        <e ID="369134" t="31591" utc="1362352460" />
+        <e ID="6181052" t="33136" utc="1362354043" />
+        <e ID="308187" t="33146" utc="1362354053" />
+        <e ID="275851" t="33308" utc="1362354215" />
+        <e ID="296551" t="33332" utc="1362354239" />
+        <e ID="367395" t="33356" utc="1362354263" />
+        <e ID="231851" t="33366" utc="1362354273" />
+        <e ID="6179243" t="33382" utc="1362354289" />
+        <e ID="369144" t="33495" utc="1362354401" />
+        <e ID="369187" t="33903" utc="1362354806" />
+        <e ID="6185205" t="33956" utc="1362354858" />
+        <e ID="6180102" t="33980" utc="1362354882" />
+        <e ID="6180686" t="34308" utc="1362355274" />
+        <e ID="369218" t="35817" utc="1362431820" />
+        <e ID="6179814" t="36245" utc="1362432247" />
+        <e ID="297995" t="36878" utc="1362432893" />
+        <e ID="6016270" t="39235" utc="1362435431" />
+        <e ID="6016268" t="39245" utc="1362435442" />
+        <e ID="6179305" t="41163" utc="1362599766" />
+        <e ID="299967" t="41977" utc="1362600514" />
+        <e ID="373220" t="41982" utc="1362600519" />
+        <e ID="296553" t="41988" utc="1362600525" />
+        <e ID="6181964" t="42216" utc="1362600839" />
+        <e ID="373433" t="46293" utc="1362605379" />
+        <e ID="6179816" t="48624" utc="1362607836" />
+        <e ID="6181250" t="48781" utc="1362608077" />
+        <e ID="370712" t="49281" utc="1362608578" />
+        <e ID="6195281" t="49398" utc="1362608695" />
+        <e ID="369180" t="49711" utc="1362609007" />
+        <e ID="6180056" t="52774" utc="1362686069" />
+        <e ID="370687" t="55320" utc="1362689286" />
+        <e ID="294939" t="55344" utc="1362689311" />
+        <e ID="299955" t="55451" utc="1362689487" />
+        <e ID="370727" t="57165" utc="1362691324" />
+        <e ID="6180531" t="68213" utc="1362744954" />
+        <e ID="6181895" t="69300" utc="1362746230" />
+        <e ID="6182190" t="71501" utc="1362748621" />
+        <e ID="6181929" t="71544" utc="1362748665" />
+        <e ID="6180111" t="71727" utc="1362748850" />
+        <e ID="6182622" t="71727" utc="1362748850" />
+        <e ID="299971" t="73488" utc="1362751158" />
+        <e ID="370714" t="74803" utc="1362756893" />
+        <e ID="6179605" t="76064" utc="1362789678" />
+        <e ID="370731" t="76285" utc="1362789898" />
+        <e ID="6181125" t="77940" utc="1362791707" />
+        <e ID="6188257" t="78188" utc="1362791991" />
+        <e ID="100001" t="443" utc="1362262288" L="10">
+            <LevelData Area="" Money="0" CurrentHealth="125" MaxHealth="125" CurrentStamina="130" MaxStamina="130" Level="1" XP="700">
+                <AbilityList>
+                    <Abi ID="100" />
+                    <Abi ID="101" />
+                    <Abi ID="10100" />
+                    <Abi ID="200000" />
+                    <Abi ID="201000" />
+                    <Abi ID="201001" />
+                    <Abi ID="202000" />
+                    <Abi ID="202001" />
+                    <Abi ID="203000" />
+                    <Abi ID="203001" />
+                    <Abi ID="204000" />
+                    <Abi ID="204001" />
+                    <Abi ID="205000" />
+                    <Abi ID="205001" />
+                    <Abi ID="206000" />
+                    <Abi ID="206001" />
+                    <Abi ID="203020" />
+                    <Abi ID="501000" />
+                    <Abi ID="501010" />
+                    <Abi ID="501020" />
+                </AbilityList>
+                <StatList>
+                    <Strength Base="10" Modifier="0" />
+                    <Dexterity Base="10" Modifier="3" />
+                    <Willpower Base="10" Modifier="1" />
+                    <Magic Base="10" Modifier="0" />
+                    <Cunning Base="10" Modifier="2" />
+                    <Constitution Base="10" Modifier="0" />
+                </StatList>
+                <EquippedItems>
+                    <Slot Index="0" ResRef="gen_im_wep_rog_dua_start" StackSize="1">
+                        <ItemPropertyList>
+                            <ItemProperty Index="0" ID="5200" />
+                            <ItemProperty Index="1" ID="3001" />
+                        </ItemPropertyList>
+                        <ItemPropertyPowerList>
+                            <ItemPropertyPower Index="0" ID="5.000000" />
+                            <ItemPropertyPower Index="1" ID="0.000000" />
+                        </ItemPropertyPowerList>
+                    </Slot>
+                    <Slot Index="1" ResRef="gen_im_wep_rog_dua_start" StackSize="1">
+                        <ItemPropertyList>
+                            <ItemProperty Index="0" ID="5200" />
+                            <ItemProperty Index="1" ID="3001" />
+                        </ItemPropertyList>
+                        <ItemPropertyPowerList>
+                            <ItemPropertyPower Index="0" ID="5.000000" />
+                            <ItemPropertyPower Index="1" ID="0.000000" />
+                        </ItemPropertyPowerList>
+                    </Slot>
+                    <Slot Index="4" ResRef="gen_im_arm_cht_med_start" StackSize="1">
+                        <ItemPropertyList>
+                            <ItemProperty Index="0" ID="5501" />
+                        </ItemPropertyList>
+                        <ItemPropertyPowerList>
+                            <ItemPropertyPower Index="0" ID="49.000000" />
+                        </ItemPropertyPowerList>
+                    </Slot>
+                    <Slot Index="6" ResRef="gen_im_arm_boo_med_start" StackSize="1">
+                        <ItemPropertyList>
+                            <ItemProperty Index="0" ID="5501" />
+                        </ItemPropertyList>
+                        <ItemPropertyPowerList>
+                            <ItemPropertyPower Index="0" ID="18.000000" />
+                        </ItemPropertyPowerList>
+                    </Slot>
+                    <Slot Index="7" ResRef="gen_im_arm_glv_med_start" StackSize="1">
+                        <ItemPropertyList>
+                            <ItemProperty Index="0" ID="5501" />
+                        </ItemPropertyList>
+                        <ItemPropertyPowerList>
+                            <ItemPropertyPower Index="0" ID="12.000000" />
+                        </ItemPropertyPowerList>
+                    </Slot>
+                </EquippedItems>
+            </LevelData>
+        </e>
+        <e ID="100004" t="9526" utc="1362271375" L="10">
+            <LevelData Area="" Money="12071" CurrentHealth="130" MaxHealth="130" CurrentStamina="138" MaxStamina="138" Level="4" XP="8136">
+                <AbilityList>
+                    <Abi ID="100" />
+                    <Abi ID="101" />
+                    <Abi ID="10100" />
+                    <Abi ID="200000" />
+                    <Abi ID="201000" />
+                    <Abi ID="201001" />
+                    <Abi ID="202000" />
+                    <Abi ID="202001" />
+                    <Abi ID="203000" />
+                    <Abi ID="203001" />
+                    <Abi ID="204000" />
+                    <Abi ID="204001" />
+                    <Abi ID="205000" />
+                    <Abi ID="205001" />
+                    <Abi ID="206000" />
+                    <Abi ID="206001" />
+                    <Abi ID="203020" />
+                    <Abi ID="700000" />
+                    <Abi ID="201010" />
+                    <Abi ID="201050" />
+                    <Abi ID="201020" />
+                    <Abi ID="210000" />
+                    <Abi ID="207000" />
+                    <Abi ID="208000" />
+                    <Abi ID="501010" />
+                    <Abi ID="501020" />
+                    <Abi ID="501030" />
+                    <Abi ID="501000" />
+                </AbilityList>
+                <StatList>
+                    <Strength Base="10" Modifier="1" />
+                    <Dexterity Base="13" Modifier="4" />
+                    <Willpower Base="10" Modifier="2" />
+                    <Magic Base="10" Modifier="1" />
+                    <Cunning Base="18" Modifier="3" />
+                    <Constitution Base="10" Modifier="1" />
+                </StatList>
+                <EquippedItems>
+                    <Slot Index="0" ResRef="rgb100im_rogue_1h_a" StackSize="1">
+                        <ItemPropertyList>
+                            <ItemProperty Index="0" ID="5200" />
+                            <ItemProperty Index="1" ID="3001" />
+                            <ItemProperty Index="2" ID="7999" />
+                            <ItemProperty Index="3" ID="9115" />
+                            <ItemProperty Index="4" ID="8000" />
+                            <ItemProperty Index="5" ID="1123" />
+                            <ItemProperty Index="6" ID="1105" />
+                            <ItemProperty Index="7" ID="2400" />
+                            <ItemProperty Index="8" ID="1006" />
+                            <ItemProperty Index="9" ID="10006" />
+                        </ItemPropertyList>
+                        <ItemPropertyPowerList>
+                            <ItemPropertyPower Index="0" ID="8.000000" />
+                            <ItemPropertyPower Index="1" ID="0.000000" />
+                            <ItemPropertyPower Index="2" ID="0.000000" />
+                            <ItemPropertyPower Index="3" ID="0.000000" />
+                            <ItemPropertyPower Index="4" ID="0.000000" />
+                            <ItemPropertyPower Index="5" ID="3.000000" />
+                            <ItemPropertyPower Index="6" ID="3.000000" />
+                            <ItemPropertyPower Index="7" ID="2.000000" />
+                            <ItemPropertyPower Index="8" ID="1.000000" />
+                            <ItemPropertyPower Index="9" ID="0.000000" />
+                        </ItemPropertyPowerList>
+                    </Slot>
+                    <Slot Index="1" ResRef="rog100im_rogue_1h_b" StackSize="1">
+                        <ItemPropertyList>
+                            <ItemProperty Index="0" ID="5200" />
+                            <ItemProperty Index="1" ID="3001" />
+                            <ItemProperty Index="2" ID="7999" />
+                            <ItemProperty Index="3" ID="1102" />
+                            <ItemProperty Index="4" ID="1123" />
+                            <ItemProperty Index="5" ID="10005" />
+                            <ItemProperty Index="6" ID="9115" />
+                            <ItemProperty Index="7" ID="2204" />
+                            <ItemProperty Index="8" ID="8000" />
+                        </ItemPropertyList>
+                        <ItemPropertyPowerList>
+                            <ItemPropertyPower Index="0" ID="8.000000" />
+                            <ItemPropertyPower Index="1" ID="0.000000" />
+                            <ItemPropertyPower Index="2" ID="0.000000" />
+                            <ItemPropertyPower Index="3" ID="22.000000" />
+                            <ItemPropertyPower Index="4" ID="3.000000" />
+                            <ItemPropertyPower Index="5" ID="0.000000" />
+                            <ItemPropertyPower Index="6" ID="0.000000" />
+                            <ItemPropertyPower Index="7" ID="1.000000" />
+                            <ItemPropertyPower Index="8" ID="0.000000" />
+                        </ItemPropertyPowerList>
+                    </Slot>
+                    <Slot Index="4" ResRef="rgb100im_rogue_chest" StackSize="1">
+                        <ItemPropertyList>
+                            <ItemProperty Index="0" ID="5501" />
+                            <ItemProperty Index="1" ID="3501" />
+                            <ItemProperty Index="2" ID="7999" />
+                            <ItemProperty Index="3" ID="8000" />
+                            <ItemProperty Index="4" ID="1105" />
+                            <ItemProperty Index="5" ID="1106" />
+                            <ItemProperty Index="6" ID="1210" />
+                        </ItemPropertyList>
+                        <ItemPropertyPowerList>
+                            <ItemPropertyPower Index="0" ID="98.000000" />
+                            <ItemPropertyPower Index="1" ID="0.000000" />
+                            <ItemPropertyPower Index="2" ID="0.000000" />
+                            <ItemPropertyPower Index="3" ID="0.000000" />
+                            <ItemPropertyPower Index="4" ID="5.000000" />
+                            <ItemPropertyPower Index="5" ID="13.000000" />
+                            <ItemPropertyPower Index="6" ID="8.000000" />
+                        </ItemPropertyPowerList>
+                    </Slot>
+                    <Slot Index="6" ResRef="gen_im_arm_boo_med_start" StackSize="1">
+                        <ItemPropertyList>
+                            <ItemProperty Index="0" ID="5501" />
+                        </ItemPropertyList>
+                        <ItemPropertyPowerList>
+                            <ItemPropertyPower Index="0" ID="18.000000" />
+                        </ItemPropertyPowerList>
+                    </Slot>
+                    <Slot Index="7" ResRef="gen_im_trs_gen_med_glv_r0" StackSize="1">
+                        <ItemPropertyList>
+                            <ItemProperty Index="0" ID="5501" />
+                            <ItemProperty Index="1" ID="3211" />
+                            <ItemProperty Index="2" ID="3213" />
+                            <ItemProperty Index="3" ID="1104" />
+                        </ItemPropertyList>
+                        <ItemPropertyPowerList>
+                            <ItemPropertyPower Index="0" ID="14.000000" />
+                            <ItemPropertyPower Index="1" ID="14.000000" />
+                            <ItemPropertyPower Index="2" ID="12.000000" />
+                            <ItemPropertyPower Index="3" ID="3.000000" />
+                        </ItemPropertyPowerList>
+                    </Slot>
+                    <Slot Index="11" ResRef="gen_im_trs_gen_amu_r0" StackSize="1">
+                        <ItemPropertyList>
+                            <ItemProperty Index="0" ID="5600" />
+                            <ItemProperty Index="1" ID="1113" />
+                        </ItemPropertyList>
+                        <ItemPropertyPowerList>
+                            <ItemPropertyPower Index="0" ID="0.000000" />
+                            <ItemPropertyPower Index="1" ID="3.000000" />
+                        </ItemPropertyPowerList>
+                    </Slot>
+                </EquippedItems>
+            </LevelData>
+        </e>
+    </EventList>
+</Story>

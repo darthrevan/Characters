@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Story Version="1.1" Name="Marian" Module="campaign_base">
+    <EventList>
+        <e ID="298060" t="10" utc="1382396467" />
+        <e ID="6207426" t="14" utc="1382396471" />
+        <e ID="369168" t="29" utc="1382396485" />
+        <e ID="6201330" t="148" utc="1382396605" />
+        <e ID="6201333" t="148" utc="1382396605" />
+        <e ID="6180823" t="326" utc="1382396783" />
+        <e ID="231858" t="371" utc="1382396828" />
+        <e ID="6207408" t="392" utc="1382396848" />
+        <e ID="6207541" t="406" utc="1382396862" />
+        <e ID="6207409" t="413" utc="1382396869" />
+        <e ID="6207411" t="464" utc="1382396920" />
+        <e ID="6207412" t="475" utc="1382396932" />
+        <e ID="6207514" t="606" utc="1382554508" />
+        <e ID="6180123" t="639" utc="1382554541" />
+        <e ID="370724" t="739" utc="1382554641" />
+        <e ID="6207616" t="840" utc="1382554743" />
+        <e ID="6207617" t="842" utc="1382554744" />
+        <e ID="6207583" t="1021" utc="1382554923" />
+        <e ID="369876" t="1874" utc="1382555776" />
+        <e ID="6205954" t="1968" utc="1382555871" />
+        <e ID="369154" t="2226" utc="1382556129" />
+        <e ID="271534" t="2465" utc="1382556368" />
+        <e ID="6207586" t="2760" utc="1382556663" />
+        <e ID="6207587" t="2764" utc="1382556666" />
+        <e ID="6207468" t="2837" utc="1382556739" />
+        <e ID="6207536" t="2997" utc="1382556899" />
+        <e ID="100001" t="352" utc="1382396809" L="3">
+            <LevelData Area="" Money="0" CurrentHealth="125" MaxHealth="125" CurrentStamina="130" MaxStamina="130" Level="1" XP="700">
+                <AbilityList>
+                    <Abi ID="100" />
+                    <Abi ID="101" />
+                    <Abi ID="10100" />
+                    <Abi ID="200000" />
+                    <Abi ID="201000" />
+                    <Abi ID="201001" />
+                    <Abi ID="202000" />
+                    <Abi ID="202001" />
+                    <Abi ID="203000" />
+                    <Abi ID="203001" />
+                    <Abi ID="204000" />
+                    <Abi ID="204001" />
+                    <Abi ID="205000" />
+                    <Abi ID="205001" />
+                    <Abi ID="206000" />
+                    <Abi ID="206001" />
+                    <Abi ID="203020" />
+                    <Abi ID="501000" />
+                    <Abi ID="501010" />
+                    <Abi ID="501020" />
+                </AbilityList>
+                <StatList>
+                    <Strength Base="10" Modifier="0" />
+                    <Dexterity Base="10" Modifier="3" />
+                    <Willpower Base="10" Modifier="1" />
+                    <Magic Base="10" Modifier="0" />
+                    <Cunning Base="10" Modifier="2" />
+                    <Constitution Base="10" Modifier="0" />
+                </StatList>
+                <EquippedItems>
+                    <Slot Index="0" ResRef="gen_im_wep_rog_dua_start" StackSize="1">
+                        <ItemPropertyList>
+                            <ItemProperty Index="0" ID="5200" />
+                            <ItemProperty Index="1" ID="3001" />
+                        </ItemPropertyList>
+                        <ItemPropertyPowerList>
+                            <ItemPropertyPower Index="0" ID="5.000000" />
+                            <ItemPropertyPower Index="1" ID="0.000000" />
+                        </ItemPropertyPowerList>
+                    </Slot>
+                    <Slot Index="1" ResRef="gen_im_wep_rog_dua_start" StackSize="1">
+                        <ItemPropertyList>
+                            <ItemProperty Index="0" ID="5200" />
+                            <ItemProperty Index="1" ID="3001" />
+                        </ItemPropertyList>
+                        <ItemPropertyPowerList>
+                            <ItemPropertyPower Index="0" ID="5.000000" />
+                            <ItemPropertyPower Index="1" ID="0.000000" />
+                        </ItemPropertyPowerList>
+                    </Slot>
+                    <Slot Index="4" ResRef="gen_im_arm_cht_med_start" StackSize="1">
+                        <ItemPropertyList>
+                            <ItemProperty Index="0" ID="5501" />
+                        </ItemPropertyList>
+                        <ItemPropertyPowerList>
+                            <ItemPropertyPower Index="0" ID="49.000000" />
+                        </ItemPropertyPowerList>
+                    </Slot>
+                    <Slot Index="6" ResRef="gen_im_arm_boo_med_start" StackSize="1">
+                        <ItemPropertyList>
+                            <ItemProperty Index="0" ID="5501" />
+                        </ItemPropertyList>
+                        <ItemPropertyPowerList>
+                            <ItemPropertyPower Index="0" ID="18.000000" />
+                        </ItemPropertyPowerList>
+                    </Slot>
+                    <Slot Index="7" ResRef="gen_im_arm_glv_med_start" StackSize="1">
+                        <ItemPropertyList>
+                            <ItemProperty Index="0" ID="5501" />
+                        </ItemPropertyList>
+                        <ItemPropertyPowerList>
+                            <ItemPropertyPower Index="0" ID="12.000000" />
+                        </ItemPropertyPowerList>
+                    </Slot>
+                </EquippedItems>
+            </LevelData>
+        </e>
+    </EventList>
+</Story>

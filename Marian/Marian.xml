@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PlayerCharacter Name="Marian" Folder="Marian" Portrait="Marian_portrait.png" Avatar="Marian.jpg" Race="3" Class="2" Gender="2" Area="Outside Lothering" Origin="1" SoundSet="ss_player_female" Money="0" CurrentHealth="100" MaxHealth="100" CurrentStamina="160" MaxStamina="160" Level="1" XP="700" XPNeeded="1000" Platform="PC" Tint="2">
+    <AbilityList>
+        <Ability Index="0" ID="100" TlkName="6061714" TlkDescription="0" Icon="ico_attack" />
+        <Ability Index="1" ID="101" TlkName="6061714" TlkDescription="0" Icon="ico_attack" />
+        <Ability Index="2" ID="10100" TlkName="0" TlkDescription="0" Icon="" />
+        <Ability Index="3" ID="300000" TlkName="0" TlkDescription="0" Icon="" />
+        <Ability Index="4" ID="301000" TlkName="0" TlkDescription="0" Icon="" />
+        <Ability Index="5" ID="301001" TlkName="6201847" TlkDescription="6205192" Icon="root_mage_Primal1" />
+        <Ability Index="6" ID="302000" TlkName="0" TlkDescription="0" Icon="" />
+        <Ability Index="7" ID="302001" TlkName="6184448" TlkDescription="6205193" Icon="root_mage_Primal2" />
+        <Ability Index="8" ID="303000" TlkName="0" TlkDescription="0" Icon="" />
+        <Ability Index="9" ID="303001" TlkName="371176" TlkDescription="6205194" Icon="root_mage_Spirit" />
+        <Ability Index="10" ID="304000" TlkName="0" TlkDescription="0" Icon="" />
+        <Ability Index="11" ID="304001" TlkName="6116453" TlkDescription="6205195" Icon="root_mage_Arcane" />
+        <Ability Index="12" ID="305000" TlkName="0" TlkDescription="0" Icon="" />
+        <Ability Index="13" ID="305001" TlkName="6184468" TlkDescription="6205196" Icon="root_mage_Entropy" />
+        <Ability Index="14" ID="306000" TlkName="0" TlkDescription="0" Icon="" />
+        <Ability Index="15" ID="306001" TlkName="6184477" TlkDescription="6205197" Icon="root_mage_Creation" />
+        <Ability Index="16" ID="304010" TlkName="380053" TlkDescription="6205214" Icon="mage_MindBlast" />
+        <Ability Index="17" ID="501000" TlkName="6031233" TlkDescription="6195790" Icon="ico_health_1" />
+        <Ability Index="18" ID="501010" TlkName="6031863" TlkDescription="6195791" Icon="ico_mana_1" />
+        <Ability Index="19" ID="501020" TlkName="6064190" TlkDescription="6195792" Icon="ico_stamina_1" />
+        <Ability Index="20" ID="700000" TlkName="6205507" TlkDescription="6205508" Icon="Dog_Summon" />
+    </AbilityList>
+    <StatList>
+        <Strength Base="10" Modifier="0" />
+        <Dexterity Base="10" Modifier="0" />
+        <Willpower Base="10" Modifier="2" />
+        <Magic Base="10" Modifier="3" />
+        <Cunning Base="10" Modifier="1" />
+        <Constitution Base="10" Modifier="0" />
+    </StatList>
+    <EquippedItems ActiveSet="0">
+        <Slot Index="0" Set="0" ResRef="gen_im_wep_mag_sta_start" TlkName="6180326" TlkDescription="6180327" Icon="ico_staff_1">
+            <ItemPropertyList>
+                <ItemProperty Index="0" ID="3002" />
+                <ItemProperty Index="1" ID="5400" />
+                <ItemProperty Index="2" ID="10001" />
+            </ItemPropertyList>
+            <ItemPropertyPowerList>
+                <ItemPropertyPower Index="0" ID="0.000000" />
+                <ItemPropertyPower Index="1" ID="5.000000" />
+                <ItemPropertyPower Index="2" ID="0.000000" />
+            </ItemPropertyPowerList>
+        </Slot>
+        <Slot Index="4" ResRef="gen_im_arm_cht_lgt_start" TlkName="6180346" TlkDescription="6180347" Icon="ico_armor_light_1">
+            <ItemPropertyList>
+                <ItemProperty Index="0" ID="5502" />
+            </ItemPropertyList>
+            <ItemPropertyPowerList>
+                <ItemPropertyPower Index="0" ID="45.000000" />
+            </ItemPropertyPowerList>
+        </Slot>
+        <Slot Index="6" ResRef="gen_im_arm_boo_lgt_start" TlkName="6180342" TlkDescription="6180343" Icon="ico_boots_light_1">
+            <ItemPropertyList>
+                <ItemProperty Index="0" ID="5502" />
+            </ItemPropertyList>
+            <ItemPropertyPowerList>
+                <ItemPropertyPower Index="0" ID="16.000000" />
+            </ItemPropertyPowerList>
+        </Slot>
+        <Slot Index="7" ResRef="gen_im_arm_glv_lgt_start" TlkName="6180350" TlkDescription="6180351" Icon="ico_gloves_light_1">
+            <ItemPropertyList>
+                <ItemProperty Index="0" ID="5502" />
+            </ItemPropertyList>
+            <ItemPropertyPowerList>
+                <ItemPropertyPower Index="0" ID="11.000000" />
+            </ItemPropertyPowerList>
+        </Slot>
+    </EquippedItems>
+</PlayerCharacter>

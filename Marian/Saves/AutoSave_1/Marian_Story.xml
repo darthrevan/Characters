@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Story Version="1.1" Name="Marian" Module="campaign_base">
+    <EventList>
+        <e ID="298060" t="21" utc="1382395751" />
+        <e ID="6207426" t="24" utc="1382395755" />
+        <e ID="369168" t="43" utc="1382395774" />
+        <e ID="6201330" t="44" utc="1382395774" />
+        <e ID="6201333" t="44" utc="1382395774" />
+        <e ID="6201331" t="139" utc="1382395870" />
+        <e ID="6180824" t="328" utc="1382396059" />
+        <e ID="231858" t="707" utc="1382396438" />
+        <e ID="100001" t="446" utc="1382396177" L="1">
+            <LevelData Area="" Money="0" CurrentHealth="100" MaxHealth="100" CurrentStamina="160" MaxStamina="160" Level="1" XP="700">
+                <AbilityList>
+                    <Abi ID="100" />
+                    <Abi ID="101" />
+                    <Abi ID="10100" />
+                    <Abi ID="300000" />
+                    <Abi ID="301000" />
+                    <Abi ID="301001" />
+                    <Abi ID="302000" />
+                    <Abi ID="302001" />
+                    <Abi ID="303000" />
+                    <Abi ID="303001" />
+                    <Abi ID="304000" />
+                    <Abi ID="304001" />
+                    <Abi ID="305000" />
+                    <Abi ID="305001" />
+                    <Abi ID="306000" />
+                    <Abi ID="306001" />
+                    <Abi ID="304010" />
+                    <Abi ID="501000" />
+                    <Abi ID="501010" />
+                    <Abi ID="501020" />
+                </AbilityList>
+                <StatList>
+                    <Strength Base="10" Modifier="0" />
+                    <Dexterity Base="10" Modifier="0" />
+                    <Willpower Base="10" Modifier="2" />
+                    <Magic Base="10" Modifier="3" />
+                    <Cunning Base="10" Modifier="1" />
+                    <Constitution Base="10" Modifier="0" />
+                </StatList>
+                <EquippedItems>
+                    <Slot Index="0" ResRef="gen_im_wep_mag_sta_start" StackSize="1">
+                        <ItemPropertyList>
+                            <ItemProperty Index="0" ID="3002" />
+                            <ItemProperty Index="1" ID="5400" />
+                            <ItemProperty Index="2" ID="10001" />
+                        </ItemPropertyList>
+                        <ItemPropertyPowerList>
+                            <ItemPropertyPower Index="0" ID="0.000000" />
+                            <ItemPropertyPower Index="1" ID="5.000000" />
+                            <ItemPropertyPower Index="2" ID="0.000000" />
+                        </ItemPropertyPowerList>
+                    </Slot>
+                    <Slot Index="4" ResRef="gen_im_arm_cht_lgt_start" StackSize="1">
+                        <ItemPropertyList>
+                            <ItemProperty Index="0" ID="5502" />
+                        </ItemPropertyList>
+                        <ItemPropertyPowerList>
+                            <ItemPropertyPower Index="0" ID="45.000000" />
+                        </ItemPropertyPowerList>
+                    </Slot>
+                    <Slot Index="6" ResRef="gen_im_arm_boo_lgt_start" StackSize="1">
+                        <ItemPropertyList>
+                            <ItemProperty Index="0" ID="5502" />
+                        </ItemPropertyList>
+                        <ItemPropertyPowerList>
+                            <ItemPropertyPower Index="0" ID="16.000000" />
+                        </ItemPropertyPowerList>
+                    </Slot>
+                    <Slot Index="7" ResRef="gen_im_arm_glv_lgt_start" StackSize="1">
+                        <ItemPropertyList>
+                            <ItemProperty Index="0" ID="5502" />
+                        </ItemPropertyList>
+                        <ItemPropertyPowerList>
+                            <ItemPropertyPower Index="0" ID="11.000000" />
+                        </ItemPropertyPowerList>
+                    </Slot>
+                </EquippedItems>
+            </LevelData>
+        </e>
+    </EventList>
+</Story>

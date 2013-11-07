@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PlayerCharacter Name="Revan" Folder="Revan" Portrait="Revan_portrait.png" Avatar="Revan.jpg" Race="3" Class="3" Gender="1" Area="Outside Lothering" Origin="1" SoundSet="ss_player_male" Money="0" CurrentHealth="125" MaxHealth="125" CurrentStamina="130" MaxStamina="130" Level="1" XP="700" XPNeeded="1000" Platform="PC" Tint="2">
+    <AbilityList>
+        <Ability Index="0" ID="100" TlkName="6061714" TlkDescription="0" Icon="ico_attack" />
+        <Ability Index="1" ID="101" TlkName="6061714" TlkDescription="0" Icon="ico_attack" />
+        <Ability Index="2" ID="10100" TlkName="0" TlkDescription="0" Icon="" />
+        <Ability Index="3" ID="200000" TlkName="0" TlkDescription="0" Icon="" />
+        <Ability Index="4" ID="201000" TlkName="0" TlkDescription="0" Icon="" />
+        <Ability Index="5" ID="201001" TlkName="371181" TlkDescription="6202371" Icon="root_rog_Dual" />
+        <Ability Index="6" ID="202000" TlkName="0" TlkDescription="0" Icon="" />
+        <Ability Index="7" ID="202001" TlkName="6184344" TlkDescription="6202601" Icon="root_rog_Archery" />
+        <Ability Index="8" ID="203000" TlkName="0" TlkDescription="0" Icon="" />
+        <Ability Index="9" ID="203001" TlkName="6163940" TlkDescription="6202603" Icon="root_rog_General4" />
+        <Ability Index="10" ID="204000" TlkName="0" TlkDescription="0" Icon="" />
+        <Ability Index="11" ID="204001" TlkName="6184361" TlkDescription="6203577" Icon="root_rog_General2" />
+        <Ability Index="12" ID="205000" TlkName="0" TlkDescription="0" Icon="" />
+        <Ability Index="13" ID="205001" TlkName="6184372" TlkDescription="6202604" Icon="root_rog_General3" />
+        <Ability Index="14" ID="206000" TlkName="0" TlkDescription="0" Icon="" />
+        <Ability Index="15" ID="206001" TlkName="6163945" TlkDescription="6203576" Icon="root_rog_General1" />
+        <Ability Index="16" ID="203020" TlkName="6163943" TlkDescription="6163944" Icon="rog_Stun" />
+        <Ability Index="17" ID="501000" TlkName="6031233" TlkDescription="6195790" Icon="ico_health_1" />
+        <Ability Index="18" ID="501010" TlkName="6031863" TlkDescription="6195791" Icon="ico_mana_1" />
+        <Ability Index="19" ID="501020" TlkName="6064190" TlkDescription="6195792" Icon="ico_stamina_1" />
+        <Ability Index="20" ID="700000" TlkName="6205507" TlkDescription="6205508" Icon="Dog_Summon" />
+    </AbilityList>
+    <StatList>
+        <Strength Base="10" Modifier="0" />
+        <Dexterity Base="10" Modifier="3" />
+        <Willpower Base="10" Modifier="1" />
+        <Magic Base="10" Modifier="0" />
+        <Cunning Base="10" Modifier="2" />
+        <Constitution Base="10" Modifier="0" />
+    </StatList>
+    <EquippedItems ActiveSet="0">
+        <Slot Index="0" Set="0" ResRef="gen_im_wep_rog_dua_start" TlkName="6180309" TlkDescription="6180310" Icon="ico_dagger_1">
+            <ItemPropertyList>
+                <ItemProperty Index="0" ID="5200" />
+                <ItemProperty Index="1" ID="3001" />
+            </ItemPropertyList>
+            <ItemPropertyPowerList>
+                <ItemPropertyPower Index="0" ID="5.000000" />
+                <ItemPropertyPower Index="1" ID="0.000000" />
+            </ItemPropertyPowerList>
+        </Slot>
+        <Slot Index="1" Set="0" ResRef="gen_im_wep_rog_dua_start" TlkName="6180309" TlkDescription="6180310" Icon="ico_dagger_1">
+            <ItemPropertyList>
+                <ItemProperty Index="0" ID="5200" />
+                <ItemProperty Index="1" ID="3001" />
+            </ItemPropertyList>
+            <ItemPropertyPowerList>
+                <ItemPropertyPower Index="0" ID="5.000000" />
+                <ItemPropertyPower Index="1" ID="0.000000" />
+            </ItemPropertyPowerList>
+        </Slot>
+        <Slot Index="4" ResRef="gen_im_arm_cht_med_start" TlkName="6180358" TlkDescription="6180359" Icon="ico_armor_medium_1">
+            <ItemPropertyList>
+                <ItemProperty Index="0" ID="5501" />
+            </ItemPropertyList>
+            <ItemPropertyPowerList>
+                <ItemPropertyPower Index="0" ID="49.000000" />
+            </ItemPropertyPowerList>
+        </Slot>
+        <Slot Index="6" ResRef="gen_im_arm_boo_med_start" TlkName="6180354" TlkDescription="6180355" Icon="ico_boots_med_1">
+            <ItemPropertyList>
+                <ItemProperty Index="0" ID="5501" />
+            </ItemPropertyList>
+            <ItemPropertyPowerList>
+                <ItemPropertyPower Index="0" ID="18.000000" />
+            </ItemPropertyPowerList>
+        </Slot>
+        <Slot Index="7" ResRef="gen_im_arm_glv_med_start" TlkName="6180362" TlkDescription="6180363" Icon="ico_gloves_medium_1">
+            <ItemPropertyList>
+                <ItemProperty Index="0" ID="5501" />
+            </ItemPropertyList>
+            <ItemPropertyPowerList>
+                <ItemPropertyPower Index="0" ID="12.000000" />
+            </ItemPropertyPowerList>
+        </Slot>
+    </EquippedItems>
+</PlayerCharacter>
